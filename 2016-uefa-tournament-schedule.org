@@ -1,0 +1,145 @@
+#+TITLE: Schedule for the UEFA EURO 2016
+#+TAGS: EURO2016
+#+CATEGORY: EURO2016
+
+* Info
+** Schedule from https://en.wikipedia.org/wiki/UEFA_Euro_2016
+** Inspiration from [[https://github.com/djcb/org-euro2012/][djcb's EURO2012]] and [[https://github.com/ruediger/org-world-cup2014][ruediger's 2014 World cup]] schedules.
+** All times are [[https://en.wikipedia.org/wiki/Central_European_Summer_Time][CEST]] ([[https://en.wikipedia.org/wiki/UTC%252B02:00][UTC+2]]).
+
+Use the following function to change the timezone.  Set =n= to 1 hour for
+[[https://fi.wikipedia.org/wiki/UTC%252B3][UTC+3]].  Move to code block and use =C-c C-c= to eval it.
+
+#+HEADERS: :var n=1
+#+begin_src emacs-lisp :results silent
+  (save-excursion
+    (goto-char (point-min))
+    (while (re-search-forward "[[<]" nil t)
+      (when (org-at-timestamp-p t)
+        (org-timestamp-change n 'hour))))
+#+end_src
+
+* Schedule for the UEFA EURO 2016
+
+** Group A                                                           :GroupA:
+*** France - Romania
+    <2016-06-10 Fri 21:00>
+*** Albania - Switzerland
+    <2016-06-11 Sat 15:00>
+*** Romania - Switzerland
+    <2016-06-15 Wed 18:00>
+*** France - Albania
+    <2016-06-15 Wed 21:00>
+*** Switzerland - France
+    <2016-06-19 Sun 21:00>
+*** Romania - Albania
+    <2016-06-19 Sun 21:00>
+
+** Group B                                                           :GroupB:
+*** Wales - Slovakia
+    <2016-06-11 Sat 18:00>
+*** England - Russia
+    <2016-06-11 Sat 21:00>
+*** Russia - Slovakia
+    <2016-06-15 Wed 15:00>
+*** England - Wales
+    <2016-06-16 Thu 15:00>
+*** Slovakia - England
+    <2016-06-20 Mon 21:00>
+*** Russia - Wales
+    <2016-06-20 Mon 21:00>
+
+** Group C                                                           :GroupC:
+*** Poland - Northern Ireland
+    <2016-06-12 Sun 18:00>
+*** Germany - Ukraine
+    <2016-06-12 Sun 21:00>
+*** Ukraine - Northern Ireland
+    <2016-06-16 Thu 18:00>
+*** Germany - Poland
+    <2016-06-16 Thu 21:00>
+*** Northern Ireland - Germany
+    <2016-06-21 Tue 18:00>
+*** Ukraine - Poland
+    <2016-06-21 Tue 18:00>
+
+** Group D                                                           :GroupD:
+*** Turkey - Croatia
+    <2016-06-12 Sun 15:00>
+*** Spain - Czech Republic
+    <2016-06-13 Mon 15:00>
+*** Czech Republic - Croatia
+    <2016-06-17 Fri 18:00>
+*** Spain - Turkey
+    <2016-06-17 Fri 21:00>
+*** Croatia - Spain
+    <2016-06-21 Tue 21:00>
+*** Czech Republic - Turkey
+    <2016-06-21 Tue 21:00>
+
+** Group E                                                           :GroupE:
+*** Republic Of Ireland - Sweden
+    <2016-06-13 Mon 18:00>
+*** Belgium - Italy
+    <2016-06-13 Mon 21:00>
+*** Italy - Sweden
+    <2016-06-17 Fri 15:00>
+*** Belgium - Republic Of Ireland
+    <2016-06-18 Sat 15:00>
+*** Sweden - Belgium
+    <2016-06-22 Wed 21:00>
+*** Italy - Republic Of Ireland
+    <2016-06-22 Wed 21:00>
+
+** Group F                                                           :GroupF:
+*** Austria - Hungary
+    <2016-06-14 Tue 18:00>
+*** Portugal - Iceland
+    <2016-06-14 Tue 21:00>
+*** Iceland - Hungary
+    <2016-06-18 Sat 18:00>
+*** Portugal - Austria
+    <2016-06-18 Sat 21:00>
+*** Iceland - Austria
+    <2016-06-22 Wed 18:00>
+*** Hungary - Portugal
+    <2016-06-22 Wed 18:00>
+
+
+** Round of 16                                                    :RoundOf16:
+*** 2A - 2C                                                         :Match37:
+    <2016-06-25 Sat 15:00>
+*** 1B - 3A/C/D                                                     :Match38:
+    <2016-06-25 Sat 18:00>
+*** 1D - 3B/E/F                                                     :Match39:
+    <2016-06-25 Sat 21:00>
+*** 1A - 3C/D/E                                                     :Match40:
+    <2016-06-26 Sun 15:00>
+*** 1C - 3A/B/F                                                     :Match41:
+    <2016-06-26 Sun 18:00>
+*** 1F - 2E                                                         :Match42:
+    <2016-06-26 Sun 21:00>
+*** 1E - 2D                                                         :Match43:
+    <2016-06-27 Mon 18:00>
+*** 2B - 2F                                                         :Match44:
+    <2016-06-27 Mon 21:00>
+
+** Quarter finals                                                  :QtFinals:
+*** W37 - W39                                                       :Match45:
+    <2016-06-30 Thu 21:00>
+*** W38 - W42                                                       :Match46:
+    <2016-07-01 Fri 21:00>
+*** W41 - W43                                                       :Match47:
+    <2016-07-02 Sat 21:00>
+*** W40 - W44                                                       :Match48:
+    <2016-07-03 Sun 21:00>
+
+** Semi-finals                                                   :SemiFinals:
+*** W45 - W46                                                       :Match49:
+    <2016-07-06 Wed 21:00>
+*** W47 - W48                                                       :Match50:
+    <2016-07-07 Thu 21:00>
+
+** Final                                                              :Final:
+*** W49 - W50
+    <2016-07-10 Sun 21:00>
