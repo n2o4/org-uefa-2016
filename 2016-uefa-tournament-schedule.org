@@ -24,122 +24,173 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 ** Group A                                                           :GroupA:
 *** France - Romania
     <2016-06-10 Fri 21:00>
+    Stade de France, Saint-Denis
 *** Albania - Switzerland
     <2016-06-11 Sat 15:00>
+    Stade Bollaert-Delelis, Lens
 *** Romania - Switzerland
     <2016-06-15 Wed 18:00>
+    Parc des Princes, Paris
 *** France - Albania
     <2016-06-15 Wed 21:00>
+    Stade Vélodrome, Marseille
 *** Switzerland - France
     <2016-06-19 Sun 21:00>
+    Stade Pierre-Mauroy, Lille
 *** Romania - Albania
     <2016-06-19 Sun 21:00>
+    Parc Olympique, Lyon
 
 ** Group B                                                           :GroupB:
 *** Wales - Slovakia
     <2016-06-11 Sat 18:00>
+    Nouveau Stade de Bordeaux, Bordeaux
 *** England - Russia
     <2016-06-11 Sat 21:00>
+    Stade Vélodrome, Marseille
 *** Russia - Slovakia
     <2016-06-15 Wed 15:00>
+    Stade Pierre-Mauroy, Lille
 *** England - Wales
     <2016-06-16 Thu 15:00>
+    Stade Bollaert-Delelis, Lens
 *** Slovakia - England
     <2016-06-20 Mon 21:00>
+    Stade Geoffroy-Guichard, Saint-Étienne
 *** Russia - Wales
     <2016-06-20 Mon 21:00>
+    Stadium Municipal, Toulouse
 
 ** Group C                                                           :GroupC:
 *** Poland - Northern Ireland
     <2016-06-12 Sun 18:00>
+    Allianz Riviera, Nice
 *** Germany - Ukraine
     <2016-06-12 Sun 21:00>
+    Stade Pierre-Mauroy, Lille
 *** Ukraine - Northern Ireland
     <2016-06-16 Thu 18:00>
+    Parc Olympique Lyonnais, Lyon
 *** Germany - Poland
     <2016-06-16 Thu 21:00>
+    Stade de France, Saint-Denis
 *** Northern Ireland - Germany
     <2016-06-21 Tue 18:00>
+    Parc des Princes, Paris
 *** Ukraine - Poland
     <2016-06-21 Tue 18:00>
+    Stade Vélodrome, Marseille
 
 ** Group D                                                           :GroupD:
 *** Turkey - Croatia
     <2016-06-12 Sun 15:00>
+    Parc des Princes, Paris
 *** Spain - Czech Republic
     <2016-06-13 Mon 15:00>
+    Stadium Municipal, Toulouse
 *** Czech Republic - Croatia
     <2016-06-17 Fri 18:00>
+    Stade Geoffroy-Guichard, Saint-Étienne
 *** Spain - Turkey
     <2016-06-17 Fri 21:00>
+    Allianz Riviera, Nice
 *** Croatia - Spain
     <2016-06-21 Tue 21:00>
+    Nouveau Stade de Bordeaux, Bordeaux
 *** Czech Republic - Turkey
     <2016-06-21 Tue 21:00>
+    Stade Bollaert-Delelis, Lens
 
 ** Group E                                                           :GroupE:
 *** Republic Of Ireland - Sweden
     <2016-06-13 Mon 18:00>
+    Stade de France, Saint-Denis
 *** Belgium - Italy
     <2016-06-13 Mon 21:00>
+    Parc Olympique Lyonnais, Lyon
 *** Italy - Sweden
     <2016-06-17 Fri 15:00>
+    Stadium Municipal, Toulouse
 *** Belgium - Republic Of Ireland
     <2016-06-18 Sat 15:00>
+    Nouveau Stade de Bordeaux, Bordeaux
 *** Sweden - Belgium
     <2016-06-22 Wed 21:00>
+    Allianz Riviera, Nice
 *** Italy - Republic Of Ireland
     <2016-06-22 Wed 21:00>
+    Stade Pierre-Mauroy, Lille
 
 ** Group F                                                           :GroupF:
 *** Austria - Hungary
     <2016-06-14 Tue 18:00>
+    Nouveau Stade de Bordeaux, Bordeaux
 *** Portugal - Iceland
     <2016-06-14 Tue 21:00>
+    Stade Geoffroy-Guichard, Saint-Étienne
 *** Iceland - Hungary
     <2016-06-18 Sat 18:00>
+    Stade Vélodrome, Marseille
 *** Portugal - Austria
     <2016-06-18 Sat 21:00>
+    Parc des Princes, Paris
 *** Iceland - Austria
     <2016-06-22 Wed 18:00>
+    Stade de France, Saint-Denis
 *** Hungary - Portugal
     <2016-06-22 Wed 18:00>
+    Parc Olympique Lyonnais, Lyon
 
 
 ** Round of 16                                                    :RoundOf16:
 *** 2A - 2C                                                         :Match37:
     <2016-06-25 Sat 15:00>
+    Stade Geoffroy-Guichard, Saint-Étienne
 *** 1B - 3A/C/D                                                     :Match38:
     <2016-06-25 Sat 18:00>
+    Parc des Princes, Paris
 *** 1D - 3B/E/F                                                     :Match39:
     <2016-06-25 Sat 21:00>
+    Stade Bollaert-Delelis, Lens
 *** 1A - 3C/D/E                                                     :Match40:
     <2016-06-26 Sun 15:00>
+    Parc Olympique Lyonnais, Lyon
 *** 1C - 3A/B/F                                                     :Match41:
     <2016-06-26 Sun 18:00>
+    Stade Pierre-Mauroy, Lille
 *** 1F - 2E                                                         :Match42:
     <2016-06-26 Sun 21:00>
+    Stadium Municipal, Toulouse
 *** 1E - 2D                                                         :Match43:
     <2016-06-27 Mon 18:00>
+    Stade de France, Saint-Denis
 *** 2B - 2F                                                         :Match44:
     <2016-06-27 Mon 21:00>
+    Allianz Riviera, Nice
 
 ** Quarter finals                                                  :QtFinals:
 *** W37 - W39                                                       :Match45:
     <2016-06-30 Thu 21:00>
+    Stade Vélodrome, Marseille
 *** W38 - W42                                                       :Match46:
     <2016-07-01 Fri 21:00>
+    Stade Pierre-Mauroy, Lille
 *** W41 - W43                                                       :Match47:
     <2016-07-02 Sat 21:00>
+    Nouveau Stade de Bordeaux, Bordeaux
 *** W40 - W44                                                       :Match48:
     <2016-07-03 Sun 21:00>
+    Stade de France, Saint-Denis
 
 ** Semi-finals                                                   :SemiFinals:
 *** W45 - W46                                                       :Match49:
     <2016-07-06 Wed 21:00>
+    Parc Olympique Lyonnais, Lyon
 *** W47 - W48                                                       :Match50:
     <2016-07-07 Thu 21:00>
+    Stade Vélodrome, Marseille
 
 ** Final                                                              :Final:
 *** W49 - W50
     <2016-07-10 Sun 21:00>
+    Stade de France, Saint-Denis
