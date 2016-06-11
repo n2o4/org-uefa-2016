@@ -22,9 +22,13 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 * Schedule for the UEFA EURO 2016
 
 ** Group A                                                           :GroupA:
-*** France - Romania
+*** France - Romania 2-1
     <2016-06-10 Fri 21:00>
     Stade de France, Saint-Denis
+
+    58' 1-0 - Olivier Giroud
+    65' 1-1 - Bogdan Stancu (penalty)
+    89' 2-1 - Dimitri Payet
 *** Albania - Switzerland
     <2016-06-11 Sat 15:00>
     Stade Bollaert-Delelis, Lens
