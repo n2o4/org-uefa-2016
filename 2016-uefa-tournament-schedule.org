@@ -29,9 +29,11 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     58' 1-0 - Olivier Giroud
     65' 1-1 - Bogdan Stancu (penalty)
     89' 2-1 - Dimitri Payet
-*** Albania - Switzerland
+*** Albania - Switzerland 0-1
     <2016-06-11 Sat 15:00>
     Stade Bollaert-Delelis, Lens
+
+    5' 0-1 Fabian Schaer
 *** Romania - Switzerland
     <2016-06-15 Wed 18:00>
     Parc des Princes, Paris
@@ -46,12 +48,19 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     Parc Olympique, Lyon
 
 ** Group B                                                           :GroupB:
-*** Wales - Slovakia
+*** Wales - Slovakia 2-1
     <2016-06-11 Sat 18:00>
     Nouveau Stade de Bordeaux, Bordeaux
-*** England - Russia
+
+    10' 1-0 - Gareth Bale
+    61' 1-1 - Ondrej Duda
+    81' 2-1 - Hal Robson-Kanu
+*** England - Russia 1-1
     <2016-06-11 Sat 21:00>
     Stade Vélodrome, Marseille
+
+    73' 1-0 - Eric Dier
+    98' 1-1 - Vasili Berezutski
 *** Russia - Slovakia
     <2016-06-15 Wed 15:00>
     Stade Pierre-Mauroy, Lille
