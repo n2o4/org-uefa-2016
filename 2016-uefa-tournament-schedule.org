@@ -75,12 +75,17 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     Stadium Municipal, Toulouse
 
 ** Group C                                                           :GroupC:
-*** Poland - Northern Ireland
+*** Poland - Northern Ireland 1-0
     <2016-06-12 Sun 18:00>
     Allianz Riviera, Nice
-*** Germany - Ukraine
+
+    51' 1-0 - Arkadiusz Milik
+*** Germany - Ukraine 2-0
     <2016-06-12 Sun 21:00>
     Stade Pierre-Mauroy, Lille
+
+    19' 1-0 - Shkodran Mustafi
+    90' 2-0 - Bastian Schweinsteiger
 *** Ukraine - Northern Ireland
     <2016-06-16 Thu 18:00>
     Parc Olympique Lyonnais, Lyon
@@ -95,9 +100,11 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     Stade Vélodrome, Marseille
 
 ** Group D                                                           :GroupD:
-*** Turkey - Croatia
+*** Turkey - Croatia 0-1
     <2016-06-12 Sun 15:00>
     Parc des Princes, Paris
+
+    41' 0-1 - Luka Modric
 *** Spain - Czech Republic
     <2016-06-13 Mon 15:00>
     Stadium Municipal, Toulouse
