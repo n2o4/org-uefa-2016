@@ -105,9 +105,11 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     Parc des Princes, Paris
 
     41' 0-1 - Luka Modric
-*** Spain - Czech Republic
+*** Spain - Czech Republic 1-0
     <2016-06-13 Mon 15:00>
     Stadium Municipal, Toulouse
+
+    87' 1-0 - Gerard Pique
 *** Czech Republic - Croatia
     <2016-06-17 Fri 18:00>
     Stade Geoffroy-Guichard, Saint-Étienne
@@ -122,12 +124,18 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     Stade Bollaert-Delelis, Lens
 
 ** Group E                                                           :GroupE:
-*** Republic Of Ireland - Sweden
+*** Republic Of Ireland - Sweden 1-1
     <2016-06-13 Mon 18:00>
     Stade de France, Saint-Denis
-*** Belgium - Italy
+
+    48' 1-0 - Wesley Hoolahan
+    71' 1-1 - Ciaran Clark (og)
+*** Belgium - Italy 0-2
     <2016-06-13 Mon 21:00>
     Parc Olympique Lyonnais, Lyon
+
+    32' 0-1 - Emanuele Giaccherini
+    90' 0-2 - Graziano Pelle
 *** Italy - Sweden
     <2016-06-17 Fri 15:00>
     Stadium Municipal, Toulouse
@@ -142,12 +150,18 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     Stade Pierre-Mauroy, Lille
 
 ** Group F                                                           :GroupF:
-*** Austria - Hungary
+*** Austria - Hungary 0-2
     <2016-06-14 Tue 18:00>
     Nouveau Stade de Bordeaux, Bordeaux
-*** Portugal - Iceland
+
+    63' 0-1 - Adam Szalai
+    87' 0-2 - Zoltan Stieber
+*** Portugal - Iceland 1-1
     <2016-06-14 Tue 21:00>
     Stade Geoffroy-Guichard, Saint-Étienne
+
+    31' 1-0 - Nani
+    50' 1-1 - Birkir Bjarnason
 *** Iceland - Hungary
     <2016-06-18 Sat 18:00>
     Stade Vélodrome, Marseille
