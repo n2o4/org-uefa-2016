@@ -34,12 +34,18 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     Stade Bollaert-Delelis, Lens
 
     5' 0-1 Fabian Schaer
-*** Romania - Switzerland
+*** Romania - Switzerland 1-1
     <2016-06-15 Wed 18:00>
     Parc des Princes, Paris
-*** France - Albania
+
+    18' 1-0 - Bodgan Stancu (pen.)
+    57' 1-1 - Admir Mehmedi
+*** France - Albania 2-0
     <2016-06-15 Wed 21:00>
     Stade Vélodrome, Marseille
+
+    90' 1-0 - Antoine Griezmann
+    96' 2-0 - Dimitri Payet
 *** Switzerland - France
     <2016-06-19 Sun 21:00>
     Stade Pierre-Mauroy, Lille
@@ -61,12 +67,20 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 
     73' 1-0 - Eric Dier
     98' 1-1 - Vasili Berezutski
-*** Russia - Slovakia
+*** Russia - Slovakia 1-2
     <2016-06-15 Wed 15:00>
     Stade Pierre-Mauroy, Lille
-*** England - Wales
+
+    32' 0-1 - Vladimir Weiss
+    45' 0-2 - Marek Hamsik
+    80' 1-2 - Denis Glushakov
+*** England - Wales 2-1
     <2016-06-16 Thu 15:00>
     Stade Bollaert-Delelis, Lens
+
+    42' 0-1 - Gareth Bale
+    56' 1-1 - Jamie Vardy
+    92' 2-1 - Daniel Sturridge
 *** Slovakia - England
     <2016-06-20 Mon 21:00>
     Stade Geoffroy-Guichard, Saint-Étienne
@@ -86,10 +100,13 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 
     19' 1-0 - Shkodran Mustafi
     90' 2-0 - Bastian Schweinsteiger
-*** Ukraine - Northern Ireland
+*** Ukraine - Northern Ireland 0-2
     <2016-06-16 Thu 18:00>
     Parc Olympique Lyonnais, Lyon
-*** Germany - Poland
+
+    49' 0-1 - Gareth McAuley
+    96' 0-2 - Niall McGinn
+*** Germany - Poland 0-0
     <2016-06-16 Thu 21:00>
     Stade de France, Saint-Denis
 *** Northern Ireland - Germany
