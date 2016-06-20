@@ -220,7 +220,7 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 *** Switzerland - 2C                                                :Match37:
     <2016-06-25 Sat 15:00>
     Stade Geoffroy-Guichard, Saint-Étienne
-*** 1B - 3A/C/D                                                     :Match38:
+*** Wales - 3A/C/D                                                  :Match38:
     <2016-06-25 Sat 18:00>
     Parc des Princes, Paris
 *** 1D - 3B/E/F                                                     :Match39:
@@ -238,7 +238,7 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 *** 1E - 2D                                                         :Match43:
     <2016-06-27 Mon 18:00>
     Stade de France, Saint-Denis
-*** 2B - 2F                                                         :Match44:
+*** England - 2F                                                    :Match44:
     <2016-06-27 Mon 21:00>
     Allianz Riviera, Nice
 
