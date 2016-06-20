@@ -46,12 +46,14 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 
     90' 1-0 - Antoine Griezmann
     96' 2-0 - Dimitri Payet
-*** Switzerland - France
+*** Switzerland - France 0-0
     <2016-06-19 Sun 21:00>
     Stade Pierre-Mauroy, Lille
-*** Romania - Albania
+*** Romania - Albania 0-1
     <2016-06-19 Sun 21:00>
     Parc Olympique, Lyon
+
+    43' 0-1 - Armando Sadiku
 
 ** Group B                                                           :GroupB:
 *** Wales - Slovakia 2-1
@@ -81,13 +83,16 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     42' 0-1 - Gareth Bale
     56' 1-1 - Jamie Vardy
     92' 2-1 - Daniel Sturridge
-*** Slovakia - England
+*** Slovakia - England 0-0
     <2016-06-20 Mon 21:00>
     Stade Geoffroy-Guichard, Saint-Étienne
-*** Russia - Wales
+*** Russia - Wales 0-3
     <2016-06-20 Mon 21:00>
     Stadium Municipal, Toulouse
 
+    11' 0-1 - Aaron Ramsey
+    20' 0-2 - Neil Taylor
+    67' 0-3 - Gareth Bale
 ** Group C                                                           :GroupC:
 *** Poland - Northern Ireland 1-0
     <2016-06-12 Sun 18:00>
@@ -127,12 +132,21 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     Stadium Municipal, Toulouse
 
     87' 1-0 - Gerard Pique
-*** Czech Republic - Croatia
+*** Czech Republic - Croatia 2-2
     <2016-06-17 Fri 18:00>
     Stade Geoffroy-Guichard, Saint-Étienne
-*** Spain - Turkey
+
+    37' 0-1 - Ivan Perisic
+    59' 0-2 - Ivan Rakitic
+    76' 1-2 - Milan Skoda
+    94' 2-2 - Tomas Necid (pen.)
+*** Spain - Turkey 3-0
     <2016-06-17 Fri 21:00>
     Allianz Riviera, Nice
+
+    34' 1-0 - Alvaro Morata
+    37' 2-0 - Nolito
+    48' 3-0 - Alvaro Morata
 *** Croatia - Spain
     <2016-06-21 Tue 21:00>
     Nouveau Stade de Bordeaux, Bordeaux
@@ -153,12 +167,18 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 
     32' 0-1 - Emanuele Giaccherini
     90' 0-2 - Graziano Pelle
-*** Italy - Sweden
+*** Italy - Sweden 1-0
     <2016-06-17 Fri 15:00>
     Stadium Municipal, Toulouse
-*** Belgium - Republic Of Ireland
+
+    88' 1-0 - Eder
+*** Belgium - Republic Of Ireland 3-0
     <2016-06-18 Sat 15:00>
     Nouveau Stade de Bordeaux, Bordeaux
+
+    48' 1-0 - Romelu Lukaku
+    61' 2-0 - Axel Witsel
+    70' 3-0 - Romelu Lukaku
 *** Sweden - Belgium
     <2016-06-22 Wed 21:00>
     Allianz Riviera, Nice
@@ -179,10 +199,13 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 
     31' 1-0 - Nani
     50' 1-1 - Birkir Bjarnason
-*** Iceland - Hungary
+*** Iceland - Hungary 1-1
     <2016-06-18 Sat 18:00>
     Stade Vélodrome, Marseille
-*** Portugal - Austria
+
+    40' 1-0 - Gylfi Sigurdsson (pen.)
+    88' 1-1 - Birkir Saevarsson (og.)
+*** Portugal - Austria 0-0
     <2016-06-18 Sat 21:00>
     Parc des Princes, Paris
 *** Iceland - Austria
@@ -194,7 +217,7 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 
 
 ** Round of 16                                                    :RoundOf16:
-*** 2A - 2C                                                         :Match37:
+*** Switzerland - 2C                                                :Match37:
     <2016-06-25 Sat 15:00>
     Stade Geoffroy-Guichard, Saint-Étienne
 *** 1B - 3A/C/D                                                     :Match38:
@@ -203,7 +226,7 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 *** 1D - 3B/E/F                                                     :Match39:
     <2016-06-25 Sat 21:00>
     Stade Bollaert-Delelis, Lens
-*** 1A - 3C/D/E                                                     :Match40:
+*** France - 3C/D/E                                                 :Match40:
     <2016-06-26 Sun 15:00>
     Parc Olympique Lyonnais, Lyon
 *** 1C - 3A/B/F                                                     :Match41:
