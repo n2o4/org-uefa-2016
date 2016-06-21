@@ -114,12 +114,16 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 *** Germany - Poland 0-0
     <2016-06-16 Thu 21:00>
     Stade de France, Saint-Denis
-*** Northern Ireland - Germany
+*** Northern Ireland - Germany 0-1
     <2016-06-21 Tue 18:00>
     Parc des Princes, Paris
-*** Ukraine - Poland
+
+    30' 0-1 - Mario Gomez
+*** Ukraine - Poland 0-1
     <2016-06-21 Tue 18:00>
     Stade Vélodrome, Marseille
+
+    54' 0-1 - Jakub Blaszczykowski
 
 ** Group D                                                           :GroupD:
 *** Turkey - Croatia 0-1
@@ -147,12 +151,19 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     34' 1-0 - Alvaro Morata
     37' 2-0 - Nolito
     48' 3-0 - Alvaro Morata
-*** Croatia - Spain
+*** Croatia - Spain 2-1
     <2016-06-21 Tue 21:00>
     Nouveau Stade de Bordeaux, Bordeaux
-*** Czech Republic - Turkey
+
+     7' 0-1 - Alvaro Morata
+    45' 1-1 - Nikola Kalinic
+    87' 2-1 - Ivan Perisic
+*** Czech Republic - Turkey 0-2
     <2016-06-21 Tue 21:00>
     Stade Bollaert-Delelis, Lens
+
+    10' 0-1 - Burak Yilmaz
+    65' 0-2 - Ozan Tufan
 
 ** Group E                                                           :GroupE:
 *** Republic Of Ireland - Sweden 1-1
@@ -217,25 +228,25 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 
 
 ** Round of 16                                                    :RoundOf16:
-*** Switzerland - 2C                                                :Match37:
+*** Switzerland - Poland                                            :Match37:
     <2016-06-25 Sat 15:00>
     Stade Geoffroy-Guichard, Saint-Étienne
 *** Wales - 3A/C/D                                                  :Match38:
     <2016-06-25 Sat 18:00>
     Parc des Princes, Paris
-*** 1D - 3B/E/F                                                     :Match39:
+*** Croatia - 3B/E/F                                                :Match39:
     <2016-06-25 Sat 21:00>
     Stade Bollaert-Delelis, Lens
 *** France - 3C/D/E                                                 :Match40:
     <2016-06-26 Sun 15:00>
     Parc Olympique Lyonnais, Lyon
-*** 1C - 3A/B/F                                                     :Match41:
+*** Germany - 3A/B/F                                                :Match41:
     <2016-06-26 Sun 18:00>
     Stade Pierre-Mauroy, Lille
 *** 1F - 2E                                                         :Match42:
     <2016-06-26 Sun 21:00>
     Stadium Municipal, Toulouse
-*** 1E - 2D                                                         :Match43:
+*** Italy - Spain                                                   :Match43:
     <2016-06-27 Mon 18:00>
     Stade de France, Saint-Denis
 *** England - 2F                                                    :Match44:
