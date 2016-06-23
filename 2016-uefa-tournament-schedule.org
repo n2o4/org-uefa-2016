@@ -190,12 +190,17 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     48' 1-0 - Romelu Lukaku
     61' 2-0 - Axel Witsel
     70' 3-0 - Romelu Lukaku
-*** Sweden - Belgium
+*** Sweden - Belgium 0-1
     <2016-06-22 Wed 21:00>
     Allianz Riviera, Nice
-*** Italy - Republic Of Ireland
+
+    84' 0-1 - Radja Nainggolan
+
+*** Italy - Republic Of Ireland 0-1
     <2016-06-22 Wed 21:00>
     Stade Pierre-Mauroy, Lille
+
+    85' 0-1 - Robert Brady
 
 ** Group F                                                           :GroupF:
 *** Austria - Hungary 0-2
@@ -219,37 +224,48 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 *** Portugal - Austria 0-0
     <2016-06-18 Sat 21:00>
     Parc des Princes, Paris
-*** Iceland - Austria
+*** Iceland - Austria 2-1
     <2016-06-22 Wed 18:00>
     Stade de France, Saint-Denis
-*** Hungary - Portugal
+
+    18' 1-0 - Jon Badi Boedvarsson
+    60' 1-1 - Alessandro Schoepf
+    94' 2-1 - Arnor Ingvi Traustason
+
+*** Hungary - Portugal 3-3
     <2016-06-22 Wed 18:00>
     Parc Olympique Lyonnais, Lyon
 
+    19' 1-0 - Zoltan Gera
+    42' 1-1 - Nani
+    47' 2-1 - Balazs Dzsudzsak
+    50' 2-2 - Christiano Ronaldo
+    55' 3-2 - Balazs Dzsudzsak
+    62' 3-3 - Christiano Ronaldo
 
 ** Round of 16                                                    :RoundOf16:
 *** Switzerland - Poland                                            :Match37:
     <2016-06-25 Sat 15:00>
     Stade Geoffroy-Guichard, Saint-Étienne
-*** Wales - 3A/C/D                                                  :Match38:
+*** Wales - Northern Ireland                                        :Match38:
     <2016-06-25 Sat 18:00>
     Parc des Princes, Paris
-*** Croatia - 3B/E/F                                                :Match39:
+*** Croatia - Portugal                                              :Match39:
     <2016-06-25 Sat 21:00>
     Stade Bollaert-Delelis, Lens
-*** France - 3C/D/E                                                 :Match40:
+*** France - Ireland                                                :Match40:
     <2016-06-26 Sun 15:00>
     Parc Olympique Lyonnais, Lyon
-*** Germany - 3A/B/F                                                :Match41:
+*** Germany - Slovakia                                              :Match41:
     <2016-06-26 Sun 18:00>
     Stade Pierre-Mauroy, Lille
-*** 1F - 2E                                                         :Match42:
+*** Hungary - Belgium                                               :Match42:
     <2016-06-26 Sun 21:00>
     Stadium Municipal, Toulouse
 *** Italy - Spain                                                   :Match43:
     <2016-06-27 Mon 18:00>
     Stade de France, Saint-Denis
-*** England - 2F                                                    :Match44:
+*** England - Iceland                                               :Match44:
     <2016-06-27 Mon 21:00>
     Allianz Riviera, Nice
 
