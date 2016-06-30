@@ -271,21 +271,45 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 
     117' 0-1 - Ricardo Quaresma
 
-*** France - Ireland                                                :Match40:
+*** France - Ireland 2-1                                            :Match40:
     <2016-06-26 Sun 15:00>
     Parc Olympique Lyonnais, Lyon
-*** Germany - Slovakia                                              :Match41:
+
+     2' 0-1 - Robert Brady (pen.)
+    58' 1-1 - Antoine Griezmann
+    61' 2-1 - Antoine Griezmann
+
+*** Germany - Slovakia 3-0                                          :Match41:
     <2016-06-26 Sun 18:00>
     Stade Pierre-Mauroy, Lille
-*** Hungary - Belgium                                               :Match42:
+
+     8' 1-0 - Jerome Boateng
+    43' 2-0 - Mario Gomez
+    63' 3-0 - Julian Draxler
+
+*** Hungary - Belgium 0-4                                           :Match42:
     <2016-06-26 Sun 21:00>
     Stadium Municipal, Toulouse
-*** Italy - Spain                                                   :Match43:
+
+    10' 0-1 - Toby Alderweireld
+    78' 0-2 - Michy Batshuayi
+    80' 0-3 - Eden Hazard
+    91' 0-4 - Yannick Ferreira-Carrasco
+
+*** Italy - Spain 2-0                                               :Match43:
     <2016-06-27 Mon 18:00>
     Stade de France, Saint-Denis
-*** England - Iceland                                               :Match44:
+
+    33' 1-0 - Giorgio Chiellini
+    91' 2-0 - Graziano Pelle
+
+*** England - Iceland 1-2                                           :Match44:
     <2016-06-27 Mon 21:00>
     Allianz Riviera, Nice
+
+     4' 1-0 - Wayne Rooney (pen.)
+     6' 1-1 - Ragnar Sigurdsson
+    19' 1-2 - Kolbeinn Sigthorsson
 
 ** Quarter finals                                                  :QtFinals:
 *** Poland - Portugal                                               :Match45:
