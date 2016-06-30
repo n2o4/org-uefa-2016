@@ -318,10 +318,10 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
 *** Wales - Hungary/Belgium                                         :Match46:
     <2016-07-01 Fri 21:00>
     Stade Pierre-Mauroy, Lille
-*** Germany/Slovakia - Italy/Spain                                  :Match47:
+*** Germany - Italy                                                 :Match47:
     <2016-07-02 Sat 21:00>
     Nouveau Stade de Bordeaux, Bordeaux
-*** France/Ireland - England/Iceland                                :Match48:
+*** France - Iceland                                                :Match48:
     <2016-07-03 Sun 21:00>
     Stade de France, Saint-Denis
 
