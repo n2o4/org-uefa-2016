@@ -335,10 +335,10 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     Stade de France, Saint-Denis
 
 ** Semi-finals                                                   :SemiFinals:
-*** W45 - W46                                                       :Match49:
+*** Portugal - Wales/Belgium                                        :Match49:
     <2016-07-06 Wed 21:00>
     Parc Olympique Lyonnais, Lyon
-*** W47 - W48                                                       :Match50:
+*** Germany/Italy - France/Iceland                                  :Match50:
     <2016-07-07 Thu 21:00>
     Stade Vélodrome, Marseille
 
