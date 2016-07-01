@@ -324,9 +324,16 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     | Kamil Glik           | 3 - 3 | Joao Moutinho     |
     | Jakub Blaszczykowski | 3 - 4 | Nani              |
     |                      | 3 - 5 | Ricardo Quaresma  |
-*** Wales - Belgium                                                 :Match46:
+
+*** Wales - Belgium 3-1                                             :Match46:
     <2016-07-01 Fri 21:00>
     Stade Pierre-Mauroy, Lille
+
+    13' 0-1 - Radja Nainggolan
+    31' 1-1 - Ashley Williams
+    55' 2-1 - Hal Robson-Kanu
+    86' 3-1 - Sam Vokes
+
 *** Germany - Italy                                                 :Match47:
     <2016-07-02 Sat 21:00>
     Nouveau Stade de Bordeaux, Bordeaux
@@ -335,7 +342,7 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     Stade de France, Saint-Denis
 
 ** Semi-finals                                                   :SemiFinals:
-*** Portugal - Wales/Belgium                                        :Match49:
+*** Portugal - Wales                                                :Match49:
     <2016-07-06 Wed 21:00>
     Parc Olympique Lyonnais, Lyon
 *** Germany/Italy - France/Iceland                                  :Match50:
