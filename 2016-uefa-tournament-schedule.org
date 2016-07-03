@@ -334,18 +334,40 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     55' 2-1 - Hal Robson-Kanu
     86' 3-1 - Sam Vokes
 
-*** Germany - Italy                                                 :Match47:
+*** Germany - Italy 1-1 (6-5 pen.)                                  :Match47:
     <2016-07-02 Sat 21:00>
     Nouveau Stade de Bordeaux, Bordeaux
-*** France - Iceland                                                :Match48:
+
+    65' 1-0 - Mesut Özil
+    78' 1-1 - Leonardo Bonucci (pen.)
+
+    | Toni Kroos             | 1 - 1 | Lorenzo Insigne      |
+    | Thomas Müller          | 1 - 1 | Simone Zaza          |
+    | Mesut Özil             | 1 - 2 | Andrea Barzagli      |
+    | Julian Draxler         | 2 - 2 | Graziano Pelle       |
+    | Bastian Schweinsteiger | 2 - 2 | Leonardo Bonucci     |
+    | Mats Hummels           | 3 - 3 | Emanuele Giaccherini |
+    | Joshua Kimmich         | 4 - 4 | Marco Parolo         |
+    | Jerome Boateng         | 5 - 5 | Mattia De Sciglio    |
+    | Jonas Hector           | 6 - 5 | Matteo Darmian       | 
+  
+*** France - Iceland 5-2                                            :Match48:
     <2016-07-03 Sun 21:00>
     Stade de France, Saint-Denis
+
+    13' 1-0 - Olivier Giroud
+    20' 2-0 - Paul Pogba
+    43' 3-0 - Dimitri Payet
+    45' 4-0 - Antoine Griezmann
+    56' 4-1 - Kolbeinn Sigthorsson
+    59' 5-1 - Olivier Giroud
+    84' 5-2 - Birkir Bjarnason
 
 ** Semi-finals                                                   :SemiFinals:
 *** Portugal - Wales                                                :Match49:
     <2016-07-06 Wed 21:00>
     Parc Olympique Lyonnais, Lyon
-*** Germany/Italy - France/Iceland                                  :Match50:
+*** Germany - France                                                :Match50:
     <2016-07-07 Thu 21:00>
     Stade Vélodrome, Marseille
 
