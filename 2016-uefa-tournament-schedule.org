@@ -364,14 +364,23 @@ Use the following function to change the timezone.  Set =n= to 1 hour for
     84' 5-2 - Birkir Bjarnason
 
 ** Semi-finals                                                   :SemiFinals:
-*** Portugal - Wales                                                :Match49:
+*** Portugal - Wales 2-0                                            :Match49:
     <2016-07-06 Wed 21:00>
     Parc Olympique Lyonnais, Lyon
-*** Germany - France                                                :Match50:
+
+    50' 1-0 - Cristiano Ronaldo
+    53' 2-0 - Nani
+
+*** Germany - France 0-2                                            :Match50:
     <2016-07-07 Thu 21:00>
     Stade Vélodrome, Marseille
 
+    45' 0-1 - Antoine Griezmann (pen.)
+    72' 0-2 - Antoine Griezmann
+
 ** Final                                                              :Final:
-*** W49 - W50
+*** Portugal - France 1-0
     <2016-07-10 Sun 21:00>
     Stade de France, Saint-Denis
+
+    109' 1-0 - Eder
